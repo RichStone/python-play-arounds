@@ -1,5 +1,5 @@
 from database import Database
-from models.Blog import Blog
+from models.blog import Blog
 
 Database.initialize()
 
